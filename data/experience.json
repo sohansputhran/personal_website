@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Junior Data Scientist",
+        "company":"Airriva",
+        "summary":"\n- Wrote an algorithm to find the important amenities in each region using feature importance to boosts profits by 26%.\n- Created a custom module containing functions that are used in multiple notebooks to reduce coding time by 30%.\n- Built a function to generate list of properties that are within the defined radius using geospatial analysis.\n- Automated pipelines to perform ETL and generate reports with scheduled and event based triggers through Azure Data Factory.\n- Designed new algorithms to detect the demand using the occupancy data to catch surge events and increase profits.\n- Developed geospatial maps to understand the occupancy of 4500+ listings at different regions in the cities using Folium.",
+        "range":"June 2021 - Present"
+    },
+    {
+        "role":"Data Scientist Intern",
+        "company":"Airriva",
+        "summary":"\n- Created a price prediction model for short term rentals of 4500+ listings with an accuracy of 83%.\n- Derived new data points with the current trends of the market to improve the pricing engine’s accuracy by 20%.\n- Designed an Azure ML pipeline to find important features that influence price and occupancy.\n- Built a surge detector using quadratic regression for surging the prices at the right time.\n- Performed Data Wrangling using PySpark to decrease the processing time by 15%.\n- Collected raw data from JSON files using parallel computing to reduce the processing time by 70%.",
+        "range":"October 2020 - May 2021"
+    },
+    {
+        "role":"Junior Software Engineer",
+        "company":"Plexus365",
+        "summary":"\n- Performed duties as full stack developer of Plexus365 website with Angular 5 and .NET Core framework.\n- Developed a mobile application for the client with Ionic 3 and .NET Core framework.\n- Handled Google Maps APIs, full stack development and executed test cases.",
+        "range":"Spetember 2017 - June 2018"
+    }
+]

@@ -1,0 +1,39 @@
+
+<!-- <div class="resume-item d-flex flex-row mb-5">
+  <div class="publication-content mr-auto">
+    <h3 class="mb-0"><a href="{{ .Permalink }}">{{ .Params.title }}</a></h3>
+    <div class="resume-item d-flex flex-column flex-md-row mb-3">
+      <div class="resume-content" style="width:200px;">
+        {{with  .Params.image }}
+          <img src="{{ . }}" style="max-height:150px;max-width:150px;"/>
+        {{ end }}
+      </div>
+    
+    <div>{{ .Summary | safeHTML }}</div>
+    <p class><a href="{{.Permalink}}">Read more..</a></p>
+    <div>{{ partial "advtags" . }}</div>
+  </div>
+  <div class="resume-date text-md-right flex-col">
+    <span class="text-primary">{{ .Date.Format "January 2, 2006" }}</span>
+  </div>
+</div> -->
+
+
+
+<h3 class="mb-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+<div class="resume-item d-flex flex-column flex-md-row mb-3">
+
+  <div class="resume-content" style="width:200px;">
+    {{with  .Params.image }}
+      <img src="{{ . }}" style="max-height:150px;max-width:150px;"/>
+    {{ end }}
+  </div>
+  <div class="resume-date" style="margin-left: 16px">
+    <p>{{ .Summary | safeHTML }}<p>
+    <p class><a href="{{.Permalink}}">Read more..</a></p>
+  </div>
+  <div class="resume-date text-md-right flex-col">
+    <span class="text-primary">{{ .Date.Format "January 2, 2006" }}</span>
+  </div>
+</div>
+<div>{{ partial "advtags" . }}</div>

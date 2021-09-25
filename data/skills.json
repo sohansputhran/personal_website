@@ -1,0 +1,22 @@
+[
+  {
+      "grouping":"Data Science / AI",
+      "skills":[ "Computer Vision", "Natural Language Processing", "Deep Learning", "Transfer Learning", "Ensemble Learning", "Web Scraping", "Big Data"]
+  },
+  {
+      "grouping":"Machine Learning",
+      "skills":[ "Recommendation System", "Clustering", "Regression", "Classification",  "Reinforcement Learning", "LSTM", "Image Processing"]
+  },
+  {
+    "grouping":"Libraries",
+    "skills":[ "PyTorch", "Tensorflow", "Keras", "SciKit-Learn", "Pandas", "NumPy", "Spark", "Flask", "Hadoop", "Selenium", "Scrapy", "Matplotlib", "Plotly", "Seaborn"]
+  },
+  {
+    "grouping": "Languages",
+    "skills": [ "Python", "R", "SQL", "TypeScript", "JavaScript", "HTML5", "CSS3"]
+  },
+  {
+    "grouping": "Tools",
+    "skills": [ "Azure", "AWS", "Google Cloud Platform", "Tableau", "VS Code", "Microsoft Office", "Power BI", "Google Colab", "JupyterLab"]
+  }
+]
