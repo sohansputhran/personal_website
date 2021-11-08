@@ -11,5 +11,5 @@ outputs:
 ---
 * Data Scientist with a Master's degree in Data Science. 
 * Currently working at [Airriva](https://www.airriva.com/) on the pricing engine using Azure ML Studio and Azure Data Factory.
-* Volunteer as a Lead Machine Learning Engineer at [Omdena](https://omdena.com/).
+* Volunteering as a Task Leader / Lead Machine Learning Engineer at [Omdena](https://omdena.com/).
 

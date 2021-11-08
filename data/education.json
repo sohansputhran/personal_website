@@ -3,14 +3,14 @@
         "school":"[Illinois Institute of Technology](https://www.iit.edu/)",
         "degree":"Masters",
         "major":"Data Science",
-        "notes":"\n- Board Member of ML@IIT 2020-21\n- GPA - 3.6\n- Coursework: Machine Learning, Data Preparation and Analysis, Computer Vision, Probability & Statistics, MATH for Algorithmic Trading\n- Organized Data Science workshops and hackathon",
+        "notes":"\n- Board Member of ML@IIT 2020-21\n- Coursework: Machine Learning, Data Preparation and Analysis, Computer Vision, Probability & Statistics, MATH for Algorithmic Trading\n- Organized Data Science workshops and hackathon",
         "range":"2019 - 2021"
     },
     {
         "school":"[Visvesvaraya Technological University](https://vtu.ac.in/)",
         "degree":"Bachelors",
         "major":"Computer Science and Engineering",
-        "notes":"\n- Placement Coordinator 2016-17\n- GPA - 3.7\n- Coursework: Object Oriented Programming, Data Structures, Engineering Mathematics, Web Programming, Database Management System, Operating Systems",
+        "notes":"\n- Placement Coordinator 2016-17\n- Coursework: Object Oriented Programming, Data Structures, Engineering Mathematics, Web Programming, Database Management System, Operating Systems",
         "range":"2013 - 2017"
     }
 ]
