@@ -12,7 +12,7 @@
 
 ![alt text](/img/projects/energy-resources.png#center)
 
-* Volunteered as a Task Leader for the Rooftop and Obstacle Detection Task.
+* Volunteered and led a team of AI Enthusiasts to collaborate and work on Rooftop and Obstacle Detection Task.
 * Created a custom dataset by annotating the obstacles on the rooftop.
 * Built an Obstacle detection model using [YOLACT](https://github.com/dbolya/yolact) instance segmentation model.
 * Built multiple Rooftop detection models and compared them using ML metrics.
