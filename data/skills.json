@@ -17,6 +17,6 @@
   },
   {
     "grouping": "Tools",
-    "skills": [ "Azure", "AWS", "Google Cloud Platform", "Tableau", "VS Code", "Microsoft Office", "Power BI", "Google Colab", "JupyterLab"]
+    "skills": [ "Azure", "AWS", "Google Cloud Platform", "Tableau", "Docker", "VS Code", "Microsoft Office", "Power BI", "Google Colab", "JupyterLab"]
   }
 ]

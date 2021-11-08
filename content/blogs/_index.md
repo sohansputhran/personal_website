@@ -16,4 +16,4 @@ This page represents the landing page for "projects" section. It is also shown u
 IN the default theme, "projects" is divided among "Creations" you authored and "contributions" made to others projects.
 
 -->
-<p>This section contains projects <a href="/blogs">created</a> by Sohan.</p>
+<p>This section contains blogs <a href="/blogs">created</a> by Sohan.</p>

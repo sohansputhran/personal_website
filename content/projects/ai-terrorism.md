@@ -2,7 +2,7 @@
   "title": "Preventing the Financing of Terrorism by Engineering an ML Model with Financial Crime Data",
   "start_date": "2021-05-01T12:41:05-05:00",
   "end_date": "2021-08-01T12:41:05-05:00",
-  "image": "/img/ai-terrorism.jpg",
+  "image": "/img/projects/ai-terrorism.jpg",
   "link": "https://omdena.com/projects/ai-terrorism/",
   "description": "Under the framework of the UN Office of Counter Terrorism <b>“UN-OICT-UNCCT Global coordinated programme on detecting, preventing and countering the financing of terrorism”</b> addressing UN Security Council Resolution 2462 and 2482 mandates, the UN initiated the goFintel project with the aim to strengthen Member States capacity to combat money laundering and the financing of terrorism.",
   "tags": ["Project", "Python", "Streamlit", "Data Science", "Machine Learning", "Omdena"],
